@@ -24,6 +24,8 @@
 # Local scratch
 /tmp/
 *.log
+# ...except curated evidence (logs our own mod wrote, intentionally archived)
+!evidence/**/*.log
 # CoJ Gunslinger specific game formats (Techland Chrome Engine 5)
 *.rpack
 *.xwb
