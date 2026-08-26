@@ -1,0 +1,9 @@
+[01:26:10.156] [info] === CoJGunslinger VR mod — winmm proxy v0.1 (Phase 1 foothold) ===
+[01:26:10.156] [info] pid 48808, proxy base 6F080000, config log_level=1
+[01:26:10.157] [info] real winmm at 74580000 — resolved 192/192 exports
+[01:32:53.886] [info] === CoJGunslinger VR mod — winmm proxy v0.1 (Phase 1 foothold) ===
+[01:32:53.886] [info] pid 47312, proxy base 6FD30000, config log_level=1
+[01:32:53.887] [info] real winmm at 74580000 — resolved 192/192 exports
+[01:34:38.614] [info] === CoJGunslinger VR mod — winmm proxy v0.1 (Phase 1 foothold) ===
+[01:34:38.615] [info] pid 43132, proxy base 6FD30000, config log_level=1
+[01:34:38.617] [info] real winmm at 74580000 — resolved 192/192 exports
